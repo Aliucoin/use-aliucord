@@ -8,6 +8,7 @@ Well, take a look at the other popular Android Discord mods: <sub>_Last updated:
 * Bluecord is _not modular_, meaning what he adds is all you get.
 * Runs an aging version of discord (94.11/94011)
 * Unrelated: Blue has a negative reputation from interactions of his previous mods and attitudes :trollface:
+[Proof of Blue's shady activities](https://drive.google.com/drive/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp)
 
 ### [CutTheCord (CTC)](https://gitdab.com/distok/cutthecord):
 * 🤷‍ Has no discord, but does have an IRC-type chat
